@@ -11,3 +11,6 @@ https://docs.seleniumhq.org/projects/
 
 #java.lang.IllegalStateException: The path to the driver executable must be set by the webdriver.chrome.driver system property; for more information, see https://github.com/SeleniumHQ/selenium/wiki/ChromeDriver. The latest version can be downloaded from http://chromedriver.storage.googleapis.com/index.html
 ->https://blog.csdn.net/qiyueqinglian/article/details/47419209
+
+Command
+https://www.seleniumhq.org/docs/cn/04_selenese_commands.jsp
