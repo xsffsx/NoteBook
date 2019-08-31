@@ -14,3 +14,6 @@ https://docs.seleniumhq.org/projects/
 
 Command
 https://www.seleniumhq.org/docs/cn/04_selenese_commands.jsp
+
+selenium-ide:
+https://github.com/SeleniumHQ/selenium-ide
