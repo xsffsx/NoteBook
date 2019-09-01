@@ -22,5 +22,6 @@ Page Object Model</br>
 https://docs.katalon.com/katalium-framework/docs/katalium-framework-page-object-model.html
 https://www.seleniumhq.org/docs/06_test_design_considerations.jsp#data-driven-testing
 
-论坛</br>
-https://forum.katalon.com/
+论坛: https://forum.katalon.com/
+
+IDEA Selenium Plugin: http://www.perfect-test.com/index.php/en/instruments-menu-eng/27-selenium-plugin-eng
