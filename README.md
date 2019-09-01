@@ -21,3 +21,6 @@ https://github.com/SeleniumHQ/selenium-ide
 Page Object Model</br>
 https://docs.katalon.com/katalium-framework/docs/katalium-framework-page-object-model.html
 https://www.seleniumhq.org/docs/06_test_design_considerations.jsp#data-driven-testing
+
+论坛</br>
+https://forum.katalon.com/
