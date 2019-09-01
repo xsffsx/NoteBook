@@ -25,3 +25,6 @@ https://www.seleniumhq.org/docs/06_test_design_considerations.jsp#data-driven-te
 论坛: https://forum.katalon.com/
 
 IDEA Selenium Plugin: http://www.perfect-test.com/index.php/en/instruments-menu-eng/27-selenium-plugin-eng
+
+Selenium 页面工厂 数据驱动测试框架</br>
+https://www.cnblogs.com/yjlch1016/p/8328282.html
