@@ -33,3 +33,6 @@ https://www.guru99.com/page-object-model-pom-page-factory-in-selenium-ultimate-g
 
 References:</br>
 https://www.toolsqa.com/category/selenium-webdriver/
+
+org.openqa.selenium.support.PageFactory:</br>
+https://www.cnblogs.com/qiaoyeye/p/5422210.html
