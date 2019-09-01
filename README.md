@@ -28,3 +28,4 @@ IDEA Selenium Plugin: http://www.perfect-test.com/index.php/en/instruments-menu-
 
 Selenium 页面工厂 数据驱动测试框架</br>
 https://www.cnblogs.com/yjlch1016/p/8328282.html
+https://www.toolsqa.com/category/selenium-webdriver/
