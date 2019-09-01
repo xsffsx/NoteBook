@@ -18,7 +18,8 @@ https://www.seleniumhq.org/docs/cn/04_selenese_commands.jsp
 selenium-ide:
 https://github.com/SeleniumHQ/selenium-ide
 
-Page Object Model</br>
+Page Object Model:</br>
+https://github.com/SeleniumHQ/selenium/wiki/PageObjects
 https://docs.katalon.com/katalium-framework/docs/katalium-framework-page-object-model.html
 https://www.seleniumhq.org/docs/06_test_design_considerations.jsp#data-driven-testing
 
