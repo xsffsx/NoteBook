@@ -37,3 +37,15 @@ https://www.toolsqa.com/category/selenium-webdriver/
 
 org.openqa.selenium.support.PageFactory:</br>
 https://www.cnblogs.com/qiaoyeye/p/5422210.html
+
+Selenium Automation Framework: Data Driven, Keyword Driven & Hybrid</br>
+https://www.guru99.com/creating-keyword-hybrid-frameworks-with-selenium.html
+
+数据驱动测试框架搭建及实战： selenium data driven testing</br>
+https://www.cnblogs.com/wangwy/p/9064899.html
+
+关键字驱动测试框架搭建及实战：selenium keyword driven framework</br>
+https://www.cnblogs.com/wangwy/p/9096013.html
+
+混合驱动测试框架搭建及实战：selenium hybrid framework</br>
+https://www.cnblogs.com/wangwy/p/9131100.html
