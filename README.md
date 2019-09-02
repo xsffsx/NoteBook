@@ -3,7 +3,7 @@
 Selenium1、Selenium2、Selenium3的区别： https://blog.csdn.net/mmnice/article/details/98213188
 
 https://www.katalon.com/resources-center/blog/katalon-automation-recorder/
-https://stackoverflow.com/questions/54599169/how-to-configure-selenium-webdriver-with-spring-boot-for-ui-testing
+
 
 Selenium WebDriver 3 实战宝典（Java版）https://item.jd.com/12639952.html
 
@@ -32,11 +32,10 @@ Selenium 页面工厂 数据驱动测试框架</br>
 https://www.cnblogs.com/yjlch1016/p/8328282.html
 https://www.guru99.com/page-object-model-pom-page-factory-in-selenium-ultimate-guide.html
 
-References:</br>
+<P>References:</P></br>
 https://www.toolsqa.com/category/selenium-webdriver/
-
-org.openqa.selenium.support.PageFactory:</br>
-https://www.cnblogs.com/qiaoyeye/p/5422210.html
+How to configure Selenium WebDriver with Spring Boot for UI testing?: https://stackoverflow.com/questions/54599169/how-to-configure-selenium-webdriver-with-spring-boot-for-ui-testing</br>
+org.openqa.selenium.support.PageFactory:https://www.cnblogs.com/qiaoyeye/p/5422210.html
 
 Selenium Automation Framework: Data Driven, Keyword Driven & Hybrid</br>
 https://www.guru99.com/creating-keyword-hybrid-frameworks-with-selenium.html
