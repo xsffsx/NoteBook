@@ -51,4 +51,5 @@ https://www.cnblogs.com/wangwy/p/9131100.html
 
 
 Testing Angular Applications Using Selenium:</br>
-https://blog.vsoftconsulting.com/blog/testing-angular-applications-using-selenium
+https://blog.vsoftconsulting.com/blog/testing-angular-applications-using-selenium</br>
+https://sqa.stackexchange.com/questions/37983/can-selenium-handle-angular-7-applications
