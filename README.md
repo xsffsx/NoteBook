@@ -48,3 +48,7 @@ https://www.cnblogs.com/wangwy/p/9096013.html
 
 混合驱动测试框架搭建及实战：selenium hybrid framework</br>
 https://www.cnblogs.com/wangwy/p/9131100.html
+
+
+Testing Angular Applications Using Selenium:</br>
+https://blog.vsoftconsulting.com/blog/testing-angular-applications-using-selenium
