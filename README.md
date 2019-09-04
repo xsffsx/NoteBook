@@ -52,15 +52,14 @@ https://sqa.stackexchange.com/questions/37983/can-selenium-handle-angular-7-appl
 https://www.quora.com/How-do-I-use-Selenium-tool-with-angular-websites
 
 <a href="https://blog.csdn.net/lilongsy/article/details/76152620" >selenium报错Element is not clickable at point及四种解决方法</a>
-
+</br>
 <p>ngWebdriver vs Protractor</p>
 https://chercher.tech/protractor/ngwebdriver-protractor</br>
 https://github.com/paul-hammant/ngWebDriver</br>
-
+</br>
 <p>FluentSelenium</p>
 https://github.com/SeleniumHQ/fluent-selenium
-
-
+</br>
 <p>Isuues:</p>
 > java.lang.IllegalStateException: The path to the driver executable must be set by the webdriver.chrome.driver system property; for more information, see https://github.com/SeleniumHQ/selenium/wiki/ChromeDriver. The latest version can be downloaded from http://chromedriver.storage.googleapis.com/index.html</br>
 >> https://blog.csdn.net/qiyueqinglian/article/details/47419209
