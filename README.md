@@ -57,7 +57,8 @@ https://www.quora.com/How-do-I-use-Selenium-tool-with-angular-websites
 https://chercher.tech/protractor/ngwebdriver-protractor</br>
 https://github.com/paul-hammant/ngWebDriver</br>
 
-
+<p>FluentSelenium</p>
+https://github.com/SeleniumHQ/fluent-selenium
 
 
 <p>Isuues:</p>
