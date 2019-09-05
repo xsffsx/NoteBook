@@ -15,10 +15,7 @@ https://www.seleniumhq.org/docs/cn/04_selenese_commands.jsp
 selenium-ide:
 https://github.com/SeleniumHQ/selenium-ide
 
-Page Object Model:</br>
-https://github.com/SeleniumHQ/selenium/wiki/PageObjects
-https://docs.katalon.com/katalium-framework/docs/katalium-framework-page-object-model.html
-https://www.seleniumhq.org/docs/06_test_design_considerations.jsp#data-driven-testing
+
 
 论坛: https://forum.katalon.com/
 
@@ -35,6 +32,11 @@ org.openqa.selenium.support.PageFactory:https://www.cnblogs.com/qiaoyeye/p/54222
 
 Selenium Automation Framework: Data Driven, Keyword Driven & Hybrid</br>
 https://www.guru99.com/creating-keyword-hybrid-frameworks-with-selenium.html
+
+Page Object Model:</br>
+https://github.com/SeleniumHQ/selenium/wiki/PageObjects</br>
+https://docs.katalon.com/katalium-framework/docs/katalium-framework-page-object-model.html</br>
+https://www.seleniumhq.org/docs/06_test_design_considerations.jsp#data-driven-testing</br>
 
 数据驱动测试框架搭建及实战： selenium data driven testing</br>
 https://www.cnblogs.com/wangwy/p/9064899.html
