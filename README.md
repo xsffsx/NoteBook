@@ -47,14 +47,12 @@ https://www.cnblogs.com/wangwy/p/9096013.html
 混合驱动测试框架搭建及实战：selenium hybrid framework</br>
 https://www.cnblogs.com/wangwy/p/9131100.html
 
-<p>Jenkins + Selenium</p>
+* <p>Jenkins + Selenium</p>
 <a href="https://www.cnblogs.com/ceshi2016/p/8444468.html" >我的自动化测试历程（Selenium+TestNG+Java+ReportNG+Jenkins）</a>
 <a href="https://www.cnblogs.com/TaylorYoung/p/10213317.html" >Jenkins服务器端执行测试（Selenium+TestNG+Java+ReportNG+Jenkins）</a>
 </br>
 </br>
 </br>
-
-
 Testing Angular Applications Using Selenium:</br>
 https://blog.vsoftconsulting.com/blog/testing-angular-applications-using-selenium</br>
 https://sqa.stackexchange.com/questions/37983/can-selenium-handle-angular-7-applications</br>
