@@ -48,7 +48,7 @@ https://www.cnblogs.com/wangwy/p/9096013.html
 https://www.cnblogs.com/wangwy/p/9131100.html
 
 * <p>Jenkins + Selenium</p>
-<a href="https://www.cnblogs.com/ceshi2016/p/8444468.html" >我的自动化测试历程（Selenium+TestNG+Java+ReportNG+Jenkins）</a>
+<a href="https://www.cnblogs.com/ceshi2016/p/8444468.html" >我的自动化测试历程（Selenium+TestNG+Java+ReportNG+Jenkins）</a><br/>
 <a href="https://www.cnblogs.com/TaylorYoung/p/10213317.html" >Jenkins服务器端执行测试（Selenium+TestNG+Java+ReportNG+Jenkins）</a>
 </br>
 </br>
