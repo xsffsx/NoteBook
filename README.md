@@ -46,7 +46,7 @@ https://www.cnblogs.com/wangwy/p/9096013.html
 混合驱动测试框架搭建及实战：selenium hybrid framework</br>
 https://www.cnblogs.com/wangwy/p/9131100.html
 
-* <p><a href="https://item.jd.com/12639952.html" >Selenium WebDriver 3 实战宝典（Java版）</a></p><br/>
+* <p><a href="https://item.jd.com/12639952.html" >Selenium WebDriver 3 实战宝典（Java版）</a></p>
 1. <a href="https://github.com/SeleniumHQ/selenium/wiki" >selenium wik</a>
   1. <a href="https://github.com/SeleniumHQ/selenium/wiki/LoadableComponent" >LoadableComponent</a>
 
