@@ -48,9 +48,9 @@ https://www.cnblogs.com/wangwy/p/9131100.html
 
 * <p><a href="https://item.jd.com/12639952.html" >Selenium WebDriver 3 实战宝典（Java版）</a></p>
 1. <a href="https://github.com/SeleniumHQ/selenium/wiki" >selenium wik</a>
-  1. <a href="https://github.com/SeleniumHQ/selenium/wiki/LoadableComponent" >LoadableComponent</a>
-
-
+    1. <a href="https://github.com/SeleniumHQ/selenium/wiki/LoadableComponent" >LoadableComponent</a>
+</br>
+</br>
 
 * <p>Jenkins + Selenium</p>
 <a href="https://www.cnblogs.com/ceshi2016/p/8444468.html" >我的自动化测试历程（Selenium+TestNG+Java+ReportNG+Jenkins）</a><br/>
