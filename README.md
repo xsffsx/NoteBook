@@ -5,7 +5,6 @@ Selenium1、Selenium2、Selenium3的区别： https://blog.csdn.net/mmnice/artic
 https://www.katalon.com/resources-center/blog/katalon-automation-recorder/
 
 
-Selenium WebDriver 3 实战宝典（Java版）https://item.jd.com/12639952.html
 
 https://docs.seleniumhq.org/projects/
 
@@ -46,6 +45,10 @@ https://www.cnblogs.com/wangwy/p/9096013.html
 
 混合驱动测试框架搭建及实战：selenium hybrid framework</br>
 https://www.cnblogs.com/wangwy/p/9131100.html
+
+* <p><a href="https://item.jd.com/12639952.html" >Selenium WebDriver 3 实战宝典（Java版）</a></p><br/>
+
+</br>
 
 * <p>Jenkins + Selenium</p>
 <a href="https://www.cnblogs.com/ceshi2016/p/8444468.html" >我的自动化测试历程（Selenium+TestNG+Java+ReportNG+Jenkins）</a><br/>
