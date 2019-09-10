@@ -54,7 +54,7 @@ https://www.cnblogs.com/wangwy/p/9131100.html
 
 * <p>Jenkins + Selenium集成</p>
 <a href="https://www.cnblogs.com/TaylorYoung/p/10213317.html" >Jenkins服务器端执行测试（Selenium+TestNG+Java+ReportNG+Jenkins）</a>
-<a href="https://www.jianshu.com/p/f12f7d363245" >无界面游览器Headless Chrome（Selenium+TestNG+Java+ReportNG+Jenkins）</a>
+<a href="https://blog.csdn.net/yoyocat915/article/details/80715299" >无界面游览器Headless Chrome（Selenium+TestNG+Java+ReportNG+Jenkins）</a>
 </br>
 </br>
 </br>
