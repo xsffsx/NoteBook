@@ -52,13 +52,11 @@ https://www.cnblogs.com/wangwy/p/9131100.html
 </br>
 </br>
 
-* <p>Jenkins + Selenium</p>
-<a href="https://www.cnblogs.com/ceshi2016/p/8444468.html" >我的自动化测试历程（Selenium+TestNG+Java+ReportNG+Jenkins）</a><br/>
+* <p>Jenkins + Selenium集成</p>
 <a href="https://www.cnblogs.com/TaylorYoung/p/10213317.html" >Jenkins服务器端执行测试（Selenium+TestNG+Java+ReportNG+Jenkins）</a>
-
-</br>
-</br>
 <a href="https://www.jianshu.com/p/f12f7d363245" >无界面游览器Headless Chrome（Selenium+TestNG+Java+ReportNG+Jenkins）</a>
+</br>
+</br>
 </br>
 Testing Angular Applications Using Selenium:</br>
 https://blog.vsoftconsulting.com/blog/testing-angular-applications-using-selenium</br>
