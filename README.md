@@ -49,6 +49,7 @@ https://www.cnblogs.com/wangwy/p/9131100.html
 * <p><a href="https://item.jd.com/12639952.html" >Selenium WebDriver 3 实战宝典（Java版）</a></p>
 1. <a href="https://github.com/SeleniumHQ/selenium/wiki" >selenium wik</a>
     1. <a href="https://github.com/SeleniumHQ/selenium/wiki/LoadableComponent" >LoadableComponent</a>
+2. <a href="https://www.jianshu.com/p/28af813ea322" >[TestNG]Spring/Spring Boot+Maven+TestNG整合</a></br>
 </br>
 </br>
 
