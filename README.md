@@ -26,8 +26,10 @@ https://www.guru99.com/page-object-model-pom-page-factory-in-selenium-ultimate-g
 
 References:</br>
 https://www.toolsqa.com/category/selenium-webdriver/</br>
-How to configure Selenium WebDriver with Spring Boot for UI testing?: https://stackoverflow.com/questions/54599169/how-to-configure-selenium-webdriver-with-spring-boot-for-ui-testing</br>
-org.openqa.selenium.support.PageFactory:https://www.cnblogs.com/qiaoyeye/p/5422210.html
+How to configure Selenium WebDriver with Spring Boot for UI testing?: </br>
+https://stackoverflow.com/questions/54599169/how-to-configure-selenium-webdriver-with-spring-boot-for-ui-testing</br>
+org.openqa.selenium.support.PageFactory:</br>
+https://www.cnblogs.com/qiaoyeye/p/5422210.html
 
 Selenium Automation Framework: Data Driven, Keyword Driven & Hybrid</br>
 https://www.guru99.com/creating-keyword-hybrid-frameworks-with-selenium.html
